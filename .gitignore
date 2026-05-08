@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+credentials.json
+.vscode/
+.idea/
+*.log
+node_modules/
